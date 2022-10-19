@@ -42,7 +42,7 @@ class exe1
 
 
 
-
+/*
 
     using System.Drawing;
 
@@ -101,6 +101,9 @@ class exe1
          }
 
     }
+
+
+*/
 
 
 /*
